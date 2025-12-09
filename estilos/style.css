@@ -50,6 +50,9 @@ section#login {
     overflow: hidden ; /*deixar a borda redonda*/
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.694);
 
+    transition: width 0.3s, height 0.3s; /*animação*/
+    transition-timing-function: ease;
+
 }
 
 section#login > div#imagem {
