@@ -91,7 +91,7 @@ form > div.campo > span {
     font-size: 2em;
     width: 40px;
     padding: 5px;
-    height: 100%; 
+    height: 40px; 
     float: left; /* Alinhamento lado a lado */
     line-height: 30px; 
     text-align: center;
