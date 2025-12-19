@@ -36,6 +36,8 @@ section#login {
     left: 50%;
     transform: translate(-50%, -50%);
 
+    
+    
     background-color: white;
     width: 255px;
     height: 580px;
@@ -54,6 +56,8 @@ section#login > div#imagem {
     background-position: right; 
     height: 200px;
     width: 100%; 
+
+    
 }
 
 section#login > div#formulario {
